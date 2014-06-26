@@ -8,6 +8,7 @@ public class Test {
         System.out.println("测试github");
         System.out.println("lksdfsdlkfj");
         System.out.println("测试tag");
+        System.out.println("测试tag后的提交");
     }
 
 
