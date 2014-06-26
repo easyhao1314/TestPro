@@ -10,6 +10,7 @@ public class Test {
         System.out.println("测试tag");
         System.out.println("测试tag后的提交");
         System.out.println("测试branch后的提交");
+        System.out.println("测试branck1.0 第二次提交");
     }
 
 
